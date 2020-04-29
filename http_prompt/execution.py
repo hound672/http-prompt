@@ -3,6 +3,7 @@ import json
 import re
 import os
 import sys
+from time import time
 
 import click
 
@@ -508,7 +509,11 @@ class ExecutionVisitor(NodeVisitor):
         # interested in.
         sys.settrace(self._trace_get_response)
         try:
+            start_time = time()
             httpie_main([program_name] + args, env=env)
+            end_time = time()
+            elapsed_time = end_time - start_time
+            click.secho('\033[92mElapsed time:\033[0m {0}'.format(elapsed_time))
         finally:
             sys.settrace(None)
 

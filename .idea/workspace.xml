@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5790bd0-3833-480d-8579-490e28042095" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/http_prompt/execution.py" beforeDir="false" afterPath="$PROJECT_DIR$/http_prompt/execution.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bDdJq9Vtl4nidNRn0HtCgLc1db" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5790bd0-3833-480d-8579-490e28042095" name="Default Changelist" comment="" />
+      <created>1588170528480</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588170528480</updated>
+      <workItem from="1588170530245" duration="2811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2667" y="276" key="FileChooserDialogImpl" timestamp="1588171391168">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2667" y="276" key="FileChooserDialogImpl/1920.0.1920.1080/0.0.1920.1035@1920.0.1920.1080" timestamp="1588171391168" />
+    <state x="2381" y="153" key="SettingsEditor" timestamp="1588171393470">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="153" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1035@1920.0.1920.1080" timestamp="1588171393470" />
+    <state x="2584" y="129" width="592" height="777" key="find.popup" timestamp="1588171847348">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2584" y="129" width="592" height="777" key="find.popup/1920.0.1920.1080/0.0.1920.1035@1920.0.1920.1080" timestamp="1588171847348" />
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1588170825832">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2543" y="227" width="672" height="678" key="search.everywhere.popup/1920.0.1920.1080/0.0.1920.1035@1920.0.1920.1080" timestamp="1588170825832" />
+  </component>
+</project>
